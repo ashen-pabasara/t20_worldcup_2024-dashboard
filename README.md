@@ -66,7 +66,7 @@ The report uses a **star-schema style model**, integrating multiple cricket data
 ## 📄 PDF Preview  
 
 A PDF export of the full dashboard is included for offline viewing:  
-📑 [View Dashboard PDF](T20 World Cup 2024.pdf) 
+📑 [T20 World Cup 2024.pdf](https://github.com/ashen-pabasara/t20_worldcup_2024-dashboard/blob/main/T20%20World%20Cup%202024.pdf)
 
 ---
 
